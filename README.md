@@ -1,4 +1,4 @@
-# IBM Employee Attrition Prediction
+﻿# IBM Employee Attrition Prediction
 
 An end-to-end machine learning analysis for predicting employee attrition risk using IBM HR analytics data. The project combines exploratory data analysis, feature engineering, stratified model validation, and model interpretation to support proactive employee-retention strategy.
 
@@ -176,8 +176,9 @@ xgboost
 
 ## Academic Notes
 
-This project is designed as an academic machine learning case study. The results demonstrate predictive patterns in HR data, but they should not be used for high-stakes employee decisions without additional validation, fairness review, threshold calibration, privacy assessment, and domain-expert oversight.
+This project was developed as part of the **Global Consumer Intelligence Short Course - Data Science & Business**, offered by **The University of Tokyo** and **Matsuo-Iwasawa Laboratory**. It is intended as an academic machine learning case study that demonstrates how HR analytics can be used to explore employee attrition patterns, evaluate predictive models, and translate model outputs into business insights. The results should not be used for high-stakes employee decisions without additional validation, fairness review, threshold calibration, privacy assessment, and domain-expert oversight.
 
 ## Author
 
 Farhan A. P.
+
