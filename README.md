@@ -178,7 +178,3 @@ xgboost
 
 This project was developed as part of the **Global Consumer Intelligence Short Course - Data Science & Business**, offered by **The University of Tokyo** and **Matsuo-Iwasawa Laboratory**. It is intended as an academic machine learning case study that demonstrates how HR analytics can be used to explore employee attrition patterns, evaluate predictive models, and translate model outputs into business insights. The results should not be used for high-stakes employee decisions without additional validation, fairness review, threshold calibration, privacy assessment, and domain-expert oversight.
 
-## Author
-
-Farhan A. P.
-
