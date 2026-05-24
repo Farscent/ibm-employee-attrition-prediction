@@ -13,3 +13,6 @@ Thumbs.db
 
 # Local backups
 *.markdown_backup.ipynb
+
+competition_tutorial.pdf
+final_assignment_tutorial.pdf
