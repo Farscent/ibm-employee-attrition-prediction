@@ -4,9 +4,6 @@ An end-to-end machine learning analysis for predicting employee attrition risk u
 
 ## Repository Description
 
-**Suggested GitHub description:**  
-Machine learning project for IBM employee attrition prediction using EDA, feature engineering, XGBoost, and retention-focused model evaluation.
-
 ## Project Overview
 
 Employee attrition is a strategic workforce-management challenge in technology and consulting organizations. Departures can create project delays, recruitment costs, onboarding burden, and loss of organizational knowledge. This project frames attrition prediction as a supervised binary classification task and evaluates whether employee-level HR attributes can identify individuals with elevated attrition risk.
@@ -21,23 +18,6 @@ The notebook follows a complete academic workflow:
 - Cross-validated model comparison
 - Hold-out test evaluation
 - Feature-importance interpretation
-
-## Repository Name Options
-
-Recommended:
-
-```text
-ibm-employee-attrition-prediction
-```
-
-Alternative names:
-
-```text
-employee-attrition-risk-model
-hr-analytics-attrition-classification
-ibm-hr-analytics-retention-model
-workforce-attrition-prediction
-```
 
 ## Dataset
 
